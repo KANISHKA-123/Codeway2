@@ -65,4 +65,4 @@ gsap.from(".team_img_wrapper img", {
   y: 20,
   delay: 3,
   duration: 1,
-});
+});s
